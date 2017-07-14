@@ -10,6 +10,7 @@ public class TestCalculator extends TestCase{
 	{
 		assertTrue(calc.sum(2, 3)==5.0f);
 		System.out.println("Sum Test passed");
+		System.out.println("-------------------------------------------------------");
 	}
 	
 	public void testDifference()
